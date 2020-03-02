@@ -38,18 +38,18 @@ skills:
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Hop Nhat Solution
+   start: 2015
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
+   employer: Software Developer
+   description: IT
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
+ - level: Studen
+   date: 2008
    subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+   school: Ton Duc Thang University
 
 #This section is optional (as is the image link below)
 coursera:
