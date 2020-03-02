@@ -8,33 +8,33 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/haduyhungtut
  - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
- - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://stackoverflow.com/users/5961613/ha-duy-hung
 
 #Any buzzword skills you want to include
 skills:
- - 3+ Experienced in .NET (C#) and 2+ experienced in PHP (Code Ignaiter)
- - Basic knowledge in APIs
- - 2+ Experienced in SqlServer, MySql
- - Basic knowledge in SignalR
- - Basic knowledge of web service standards (XML, JSON, REST, SOAP)
- - Experienced in web app security
+ - NET
+ - PhP
+ - SqlServer
+ - MySql
+ - SignalR
+ - XML
+ - SOAP
+ - JSON
  
  - Product management
+ - App security
  
- - Html, Css, Javascript
- - Bootstrap, jquery,...
+ - Html
+ - Css
+ - Javascript
+ - Bootstrap
+ - jquery
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
@@ -90,4 +90,3 @@ intro: |
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
